@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-omnichannel-service-nextjs",
+  "capabilityKey": "liberusoftware/module-crm-omnichannel-service",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-crm-omnichannel-service-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/crm/nextjs/omnichannel-service.md",
+  "presentationPlan": "projects/crm/nextjs/omnichannel-service.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
